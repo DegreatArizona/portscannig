@@ -1,1 +1,2 @@
 # portscannig
+The provided Python code performs a port scan on a specified target host. It prompts the user to input a list of ports to scan, then attempts to establish TCP connections to each port on the target host. If a connection is successful, it prints a message indicating that the port is open. The code handles timeouts and errors during the connection attempts. Overall, it provides a simple way to check for open ports on a networked device.
